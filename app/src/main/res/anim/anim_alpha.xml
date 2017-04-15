@@ -3,7 +3,7 @@
     android:fromAlpha="0.2"
     android:toAlpha="1.0"
     android:fillAfter="true"
-    android:repeatCount="3"
+    android:repeatCount="2"
     android:duration="2000">
     <!--第一个参数  初始透明度
         第二个参数  最后透明度
